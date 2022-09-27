@@ -59,13 +59,14 @@ section.imagem{
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.4);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed;    
 }
 section.imagem > p{
     display: inline-block;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.473);
+    border-radius: 5px;
 }
 section#img01{
     background-image: url(../imagens/background001.jpg);
